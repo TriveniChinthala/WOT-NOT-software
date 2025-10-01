@@ -9,12 +9,6 @@ export default {
   name: 'App',
 };
 </script>
-<template>
-  <div id="app">
-    <MessageGenerator />
-  </div>
-</template>
-
 <script>
 import MessageGenerator from './components/MessageGenerator.vue'
 
