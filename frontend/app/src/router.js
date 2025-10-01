@@ -82,13 +82,13 @@ const routes = [
         name: "ChatbotView",
       }, // Updated path
       // Add more routes within the dashboard as needed
-     
-    ],
-     {
+      {
         path: '/message-generator',
         name: 'MessageGenerator',
         component: MessageGenerator
       },
+    ],
+    
   },
 ];
 
